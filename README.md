@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamajayteli" target="blank"><img src="https://img.shields.io/twitter/follow/iamajayteli?logo=twitter&style=for-the-badge" alt="iamajayteli" /></a> </p>
 
-- 🔭 I’m currently working on **EarnVid: Earning and talking app**
 - 🔭 I’m currently working on **FuelMate : A fuel delievery app**
 
 - 🌱 I’m currently learning **Android Development**
