@@ -22,7 +22,6 @@
 
 - ⚡ Fun fact **Sometimes I act like a kid**
 
-@@ -29,13 +28,13 @@
 <a href="https://twitter.com/iamajayteli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamajayteli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajay-kumar-teli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-kumar-teli" height="30" width="40" /></a>
 <a href="https://fb.com/ajaygup9821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajaygup9821" height="30" width="40" /></a>
