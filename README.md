@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **210339616286@paruluniversity.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tFfGHY_hVvmTVtlm3b3K7qgVPhmmuWiH/view?usp=share_link](https://drive.google.com/file/d/1tFfGHY_hVvmTVtlm3b3K7qgVPhmmuWiH/view?usp=share_link)
 - 📄 Know about my experiences [https://ajayteli.dorik.io/](https://ajayteli.dorik.io/)
 
 - ⚡ Fun fact **Sometimes I act like a kid**
