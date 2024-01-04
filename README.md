@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://iamajayteli.github.io/portfolio/](https://iamajayteli.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [[https://iamajayteli.github.io/portfolio/](https://github.com/iAmAjayTeli?tab=repositories)]
 
 - 💬 Ask me about **coding questions**
 - 💬 Ask me about **Android Development Problems**
