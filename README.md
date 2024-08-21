@@ -74,6 +74,7 @@
 
 ###
 
+## snake eating my contribution graph
 <img src="https://raw.githubusercontent.com/iAmAjayTeli/iAmAjayTeli/output/snake.svg" alt="Snake animation" />
 
 ###
