@@ -74,6 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iAmAjayTeli/iAmAjayTeli/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iAmAjayTeli/iAmAjayTeli/snake.yml" alt="Snake animation" />
 
 ###
