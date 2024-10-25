@@ -64,8 +64,14 @@
 
 ###
 
+
 <h3 align="left">Contribution Badges</h3>
+
+###
+
 [![An image of @iamajayteli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamajayteli)](https://holopin.io/@iamajayteli)
+
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
