@@ -65,7 +65,7 @@
 ###
 
 
-<h3 align="left">Contribution Badges</h3>
+<h3 align="left">Hactober Fest Badge</h3>
 
 ###
 
